@@ -1,5 +1,5 @@
 # dataset-ufo/archive
-Data Wrangling - End of Week 12
+Data Wrangling - End of Week 12 Assignment
 
 ### The archive folder contains: 
 
